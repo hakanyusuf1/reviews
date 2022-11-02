@@ -3,4 +3,4 @@
 Check out from this link!
 
 
-[![reviews](gif.gif)]
+![reviews](gif.gif)
