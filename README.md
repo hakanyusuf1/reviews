@@ -3,4 +3,4 @@
 Check out from this [link](reviews-project-hyb.netlify.app)
 
 
-![reviews](gif.gif)
+[![reviews](gif.gif)](reviews-project-hyb.netlify.app)
